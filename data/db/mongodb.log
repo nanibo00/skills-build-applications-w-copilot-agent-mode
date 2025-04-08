@@ -190,3 +190,7 @@
 2025-04-08T08:39:46.645+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:35214 #10 (1 connection now open)
 2025-04-08T08:39:46.646+0000 I NETWORK  [conn10] received client metadata from 127.0.0.1:35214 conn10: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
 2025-04-08T08:39:46.649+0000 I NETWORK  [conn10] end connection 127.0.0.1:35214 (0 connections now open)
+2025-04-08T08:48:07.164+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:36972 #11 (1 connection now open)
+2025-04-08T08:48:07.165+0000 I NETWORK  [conn11] received client metadata from 127.0.0.1:36972 conn11: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T08:48:07.166+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:36980 #12 (2 connections now open)
+2025-04-08T08:48:07.166+0000 I NETWORK  [conn12] received client metadata from 127.0.0.1:36980 conn12: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
